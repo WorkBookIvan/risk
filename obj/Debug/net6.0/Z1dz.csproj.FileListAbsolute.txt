@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.AssemblyInfo.cs
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\bin\Debug\net6.0\Z1dz.exe
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\bin\Debug\net6.0\Z1dz.deps.json
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\bin\Debug\net6.0\Z1dz.runtimeconfig.json
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\bin\Debug\net6.0\Z1dz.dll
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\bin\Debug\net6.0\Z1dz.pdb
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.dll
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\refint\Z1dz.dll
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.pdb
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\Z1dz.genruntimeconfig.cache
+C:\Users\1\Desktop\Python course\DzS1\Z1dz\obj\Debug\net6.0\ref\Z1dz.dll
